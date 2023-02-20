@@ -6,7 +6,7 @@
 	--button-background: #f4f4fd;
 }
 body {
-	font-family: "Roboto";
+	font-family: "Roboto", sans-serif;
 	letter-spacing: 0.02em;
 	font-weight: 400;
 }
